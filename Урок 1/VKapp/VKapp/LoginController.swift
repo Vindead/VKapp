@@ -20,26 +20,13 @@ class LoginController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-    
-    
-    
-    
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         
     }
-    
-    
-    
-    
-    
     override func viewDidDisappear(_ animated: Bool) {
         super.viewDidDisappear(animated)
        }
-    
-    
-    
-    
     
     override func viewWillLayoutSubviews() {
         super.viewWillLayoutSubviews()
